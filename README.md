@@ -1,2 +1,2 @@
 # ShatskyRise_Biostratigraphy
-Supplementary files associated with Lam and Leckie (2020, PLOS One). 
+Supporting information associated with Lam and Leckie (2020) 'Subtropical to temperate late Neogene to Quaternary planktic foraminiferal biostratigraphy across the Kuroshio Current Extension, Shatsky Rise, northwest Pacific Ocean'. Files contain the age models for ODP Holes 1207A, 1208A, and 1209A; and the planktic foraminiferal biostratigraphies for the three holes. Please cite this data as Lam, A. R., and Leckie, R. M., 2020. Subtropical to temperate late Neogene to Quaternary planktic foraminiferal biostratigraphy across the Kuroshio Current Extension, Shatsky Rise, northwest Pacific Ocean. PLOS One, In press.
